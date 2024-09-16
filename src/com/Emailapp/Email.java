@@ -1,6 +1,6 @@
 package com.Emailapp;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Email {
     private String fname;

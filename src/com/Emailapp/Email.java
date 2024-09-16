@@ -63,9 +63,7 @@ public class Email {
         this.alternateEmail = altemail;
     }
 
-    public void changePassword(String password){
-        this.password = password;
-    }
+
     public String getInfo(){
         return "Name: "+fname+" "+lname+"\nEmailID: "+email +"\nMail Capacity"+mailBoxCapacity;
     }
